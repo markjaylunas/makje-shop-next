@@ -1,1 +1,1 @@
-# Makje Shop with Next.js
+# Makje Shop an E-commerce web app with Next.js, Tailwind
